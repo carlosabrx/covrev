@@ -1,0 +1,12 @@
+{
+  "method": "regex",
+  "pdf_name": "sample_loan_agreement.pdf",
+  "sections": [
+    {
+      "section_type": "restricted_payments",
+      "title": "Restricted Payments",
+      "content": "Section 4.1 Restricted Payments\nThe Borrower shall not, and shall not permit any of its Subsidiaries to, directly or indirectly:\n(a) declare or pay any dividend or make any other payment or distribution on account of the Borrower's\nor any of its Subsidiaries' Equity Interests (including, without limitation, any payment in connection with\nany merger or consolidation involving the Borrower or any of its Subsidiaries) or to the direct or indirect\nholders of the Borrower's or any of its Subsidiaries...",
+      "confidence": 0.61
+    }
+  ]
+}

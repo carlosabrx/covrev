@@ -1,0 +1,18 @@
+{
+  "method": "regex",
+  "pdf_name": "sample_bond_indenture.pdf",
+  "sections": [
+    {
+      "section_type": "debt_incurrence",
+      "title": "additional Indebtedness",
+      "content": "additional Indebtedness pursuant to the Fixed\nCharge Coverage Ratio test set forth in Section 10.03(a); and\n(3) such Restricted Payment, together with the aggregate amount of all other Restricted Payments\nmade by the Company and its Restricted Subsidiaries since the Issue Date, is less than the sum,\nwithout duplication, of:\n(A) 50% of the Consolidated Net Income of the Company for the period (taken as one accounting\nperiod) from the beginning of the first fiscal quarter commencing after the Issu...",
+      "confidence": 0.48
+    },
+    {
+      "section_type": "investments",
+      "title": "Permitted Investments",
+      "content": "Permitted Investments' means:\n(1) any Investment in the Company or in a Restricted Subsidiary of the Company;\n(2) any Investment in Cash Equivalents;\n\n--- Page 3 ---\n(3) any Investment by the Company or any Restricted Subsidiary of the Company in a Person, if as a\nresult of such Investment such Person becomes a Restricted Subsidiary of the Company;\n(4) any Investment made as a result of the receipt of non-cash consideration from an Asset Sale that\nwas made pursuant to and in compliance with Sect...",
+      "confidence": 0.4
+    }
+  ]
+}
