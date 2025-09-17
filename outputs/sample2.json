@@ -1,0 +1,28 @@
+{
+  "file": "/workspace/samples/sample2.pdf",
+  "targets": [
+    "restricted payments",
+    "change of control"
+  ],
+  "regex": {
+    "restricted payments": [
+      {
+        "target": "restricted payments",
+        "title": "LIMITATIONS ON DIVIDENDS AND DISTRIBUTIONS",
+        "start_line": 5,
+        "end_line": 7,
+        "text": "LIMITATIONS ON DIVIDENDS AND DISTRIBUTIONS\nNo Restricted Payments are permitted unless the Consolidated Net Leverage Ratio is less than 3.00 to\n1.00 and no Default exists immediately before and after giving effect thereto."
+      }
+    ],
+    "change of control": [
+      {
+        "target": "change of control",
+        "title": "CHANGE-IN-CONTROL PROVISION",
+        "start_line": 8,
+        "end_line": 10,
+        "text": "CHANGE-IN-CONTROL PROVISION\nIf there is a change in control of the Borrower, the Borrower shall make an offer to repurchase the\nNotes at 101% of principal plus accrued interest."
+      }
+    ]
+  },
+  "llm": {}
+}
