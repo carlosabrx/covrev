@@ -1,0 +1,28 @@
+# PDF Processing
+PyPDF2==3.0.1
+pdfplumber==0.11.4
+reportlab
+
+# Text Processing
+regex
+nltk
+
+# LLM Integration
+openai
+langchain
+langchain-openai
+tiktoken
+
+# Data Handling
+pandas
+numpy
+
+# Utilities
+python-dotenv
+click
+rich
+tqdm
+
+# Testing
+pytest
+pytest-cov
