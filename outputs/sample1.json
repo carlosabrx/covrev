@@ -1,0 +1,28 @@
+{
+  "file": "/workspace/samples/sample1.pdf",
+  "targets": [
+    "restricted payments",
+    "change of control"
+  ],
+  "regex": {
+    "restricted payments": [
+      {
+        "target": "restricted payments",
+        "title": "Section 5.2 Restricted Payments",
+        "start_line": 5,
+        "end_line": 8,
+        "text": "Section 5.2 Restricted Payments\nThe Company shall not, directly or indirectly, declare or make any Restricted Payment, including\ndividends, distributions, repurchases, or redemptions, except as permitted pursuant to Section\n5.2(a)-(d)."
+      }
+    ],
+    "change of control": [
+      {
+        "target": "change of control",
+        "title": "Section 6.4 Change of Control",
+        "start_line": 13,
+        "end_line": 18,
+        "text": "Section 6.4 Change of Control\nUpon the occurrence of a Change of Control, each Lender may require the Company to prepay all\noutstanding Obligations in full, together with accrued interest and any applicable prepayment premium,\nsubject to the notice requirements set forth in Section 2.3.\nMiscellaneous\nThis Section includes boilerplate provisions regarding notices, assignments, and governing law."
+      }
+    ]
+  },
+  "llm": {}
+}
